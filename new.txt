@@ -1,1 +1,3 @@
 Added UI for Dark mode and Reverted from GitHub
+Added UI for Dark mode accepted and taken into consideration
+
