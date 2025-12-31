@@ -1,1 +1,1 @@
-Added UI for Dark mode
+Added UI for Dark mode accepted and taken into consideration
